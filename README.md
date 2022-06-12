@@ -1,8 +1,7 @@
 # Medical Insurance Cost Prediction
+https://user-images.githubusercontent.com/102408608/173228614-38819afa-5c24-4186-9bc0-5b903506cd51.png
 
-![joblib model](https://user-images.githubusercontent.com/102408608/173228614-38819afa-5c24-4186-9bc0-5b903506cd51.png)
-
-![M I C  pred](https://user-images.githubusercontent.com/102408608/173228628-39592ed3-4f66-48c2-acb9-32e9b05c0c5d.png)
+https://user-images.githubusercontent.com/102408608/173228628-39592ed3-4f66-48c2-acb9-32e9b05c0c5d.png
  
 # This Dataset that contains Medical Insurance Data (Categorical data) like,  
 1. Age 
@@ -31,4 +30,4 @@
 5. Find out null values
 6. Detecting Outliers
 7. Perform graphs like bar plot, violin plot, etc... 
-8. Train the model Label encoder Linear Regression, Random Forest Regressor, XGBoost, etc.
+8. Train the model Label encoder Random Forest Regressor
