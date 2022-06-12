@@ -1,7 +1,8 @@
 # Medical Insurance Cost Prediction
-https://user-images.githubusercontent.com/102408608/173228614-38819afa-5c24-4186-9bc0-5b903506cd51.png
 
-https://user-images.githubusercontent.com/102408608/173228628-39592ed3-4f66-48c2-acb9-32e9b05c0c5d.png
+[Joblib Model](https://user-images.githubusercontent.com/102408608/173228763-9a2d2b07-0c20-4ded-8e86-d21c7549e029.png)
+
+[Streamlit WebApp](https://user-images.githubusercontent.com/102408608/173228628-39592ed3-4f66-48c2-acb9-32e9b05c0c5d.png)
  
 # This Dataset that contains Medical Insurance Data (Categorical data) like,  
 1. Age 
