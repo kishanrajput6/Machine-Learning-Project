@@ -1,0 +1,2 @@
+# Machine-Learning-Project
+Medical Insurance Cost Prediction It is Machine Learning project, This Dataset that contains Medical Insurance Data (Categorical data) like,  Age Sex BMI Children Smoker Region Charges Libraries Used, Pandas NumPy Seaborn Matplotlib Scikit-Learn XG-Boost Pandas-Profiling Perform EDA on the dataset include Missing_Values, Outliers, Data_Description &amp; Shape_of_Data. Find out null values. Detecting Outliers. Perform graphs like bar plot, violin plot, etc... Train the model Label encoder Linear regression
